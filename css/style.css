@@ -1,0 +1,21 @@
+*{
+    font-family: monospace;
+}
+a,a:hover
+{
+    color: #D9534F;
+    text-decoration: none;
+}
+input
+{
+    font-family: monospace;
+    width: 100%;
+    font-size: 40px;
+    border: 1px solid #D9534F;
+    color: #D9534F;
+}
+.xs
+{
+    padding-top:50px;
+    padding-bottom: 50px;
+}
